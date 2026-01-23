@@ -44,7 +44,7 @@
   "devDependencies": {
     "@modelcontextprotocol/sdk": "^1.17.5",
     "@playwright/test": "1.57.0-alpha-2025-10-09",
-    "@types/node": "^24.3.0",
+    "@types/node": "^24.10.4",
     "zod-to-json-schema": "^3.24.6"
   }
 }
